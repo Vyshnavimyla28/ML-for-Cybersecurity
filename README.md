@@ -15,3 +15,13 @@
 ## Technologies
 
 Python | Pandas | NumPy | Matplotlib | Statsmodels
+
+## EXP 3 – Cyber-Attack Classification using Random Forest
+
+Generated a cybersecurity dataset with network traffic features such as Packet Count, Packet Size, and Connection Duration.
+Implemented Random Forest ensemble learning to classify traffic as Normal or Cyber Attack.
+Evaluated the model using Accuracy, Classification Report, and Confusion Matrix.
+
+##Technologies
+
+Python | Pandas | NumPy | Matplotlib | Scikit-learn
