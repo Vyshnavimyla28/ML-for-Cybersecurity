@@ -26,29 +26,29 @@ Evaluated the model using Accuracy, Classification Report, and Confusion Matrix.
 
 Python | Pandas | NumPy | Matplotlib | Scikit-learn
 
-##EXP 4 – URL Classification using Logistic Regression
+## EXP 4 – URL Classification using Logistic Regression
 Extracted URL-based features such as URL Length, Number of Dots, Hyphens, Digits, Special Characters, HTTPS Presence, and Slashes.
 Applied Logistic Regression to classify URLs as Legitimate or Malicious.
 Evaluated the classification performance using prediction and accuracy.
 
-##Technologies
+## Technologies
 
 Python | Pandas | NumPy | Scikit-learn
 
-##EXP 5 – URL Classification using SVM
+## EXP 5 – URL Classification using SVM
 Extracted numerical features from URLs, including URL Length, Number of Dots, Hyphens, Digits, Special Characters, HTTPS Presence, and Slashes.
 Implemented Support Vector Machine (SVM) with a linear kernel to classify URLs as Legitimate or Malicious.
 Evaluated the model using predicted labels and accuracy.
 
-##Technologies
+## Technologies
 
 Python | Pandas | NumPy | Scikit-learn
 
-##EXP 6 – URL Anomaly Detection using Isolation Forest
+## EXP 6 – URL Anomaly Detection using Isolation Forest
 Performed feature engineering on URLs using features such as URL Length, Dots, Hyphens, Digits, Special Characters, Slashes, HTTPS Presence, and @ Symbols.
 Applied the Isolation Forest algorithm to identify Normal and Anomalous URL patterns.
 Detected unusual URLs based on their feature patterns without requiring predefined malicious labels.
 
-##Technologies
+## Technologies
 
 Python | Pandas | NumPy | Scikit-learn
