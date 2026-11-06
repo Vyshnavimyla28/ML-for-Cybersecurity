@@ -52,3 +52,63 @@ Detected unusual URLs based on their feature patterns without requiring predefin
 ## Technologies
 
 Python | Pandas | NumPy | Scikit-learn
+
+## EXP 7 – Network Event Classification using Decision Tree
+
+- Generated a wireless sensor network dataset containing timestamps, source IP addresses, and event types.
+- Applied a Decision Tree Classifier to classify network events as Normal or Malicious.
+- Tested new network events and predicted their security status using the trained model.
+
+## Technologies
+
+Python | Pandas | Scikit-learn | IP Address Processing
+
+## EXP 8 – Database Intrusion Detection using Decision Tree
+
+- Generated a database security dataset with features such as Record Length, Special Characters, SQL Keywords, and Failed Attempts.
+- Implemented a Decision Tree Classifier to identify Normal and Malicious database records.
+- Evaluated the model using Accuracy, Classification Report, and predictions on new database records.
+
+## Technologies
+
+Python | Pandas | Scikit-learn
+
+## EXP 9 – Network Anomaly Detection using K-Means Clustering
+
+- Generated normal and abnormal network traffic data using features such as Duration, Packets, Bytes, and Failed Connections.
+- Applied K-Means Clustering to group network traffic into Normal and Abnormal categories.
+- Evaluated model accuracy and visualized network traffic clusters using a scatter plot.
+
+## Technologies
+
+Python | NumPy | Pandas | Matplotlib | Scikit-learn
+
+## EXP 10 – Email Spam Detection using Naive Bayes
+
+- Created an email dataset containing Spam and Not Spam messages.
+- Used CountVectorizer to convert email text into numerical features.
+- Implemented Multinomial Naive Bayes to classify emails and evaluated the model using Accuracy and Classification Report.
+
+## Technologies
+
+Python | Pandas | Scikit-learn
+
+## EXP 11 – Email Spoofing Detection using Random Forest
+
+- Generated an email dataset with sender details, SPF, DKIM, and DMARC authentication features.
+- Applied feature engineering to identify suspicious domains, sender mismatches, and email authentication failures.
+- Implemented Random Forest Classifier to detect Legitimate and Spoofed emails and analyzed feature importance.
+
+## Technologies
+
+Python | Pandas | NumPy | Scikit-learn
+
+## EXP 12 – CAPTCHA Recognition using CNN
+
+- Generated a CAPTCHA character dataset containing uppercase letters and digits with variations in rotation, position, and noise.
+- Built a Convolutional Neural Network (CNN) using convolution, pooling, and dense layers to recognize CAPTCHA characters.
+- Evaluated model performance using Test Accuracy and predicted character recognition.
+
+## Technologies
+
+Python | NumPy | Pillow | TensorFlow | Keras | Scikit-learn
